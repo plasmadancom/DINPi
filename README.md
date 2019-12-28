@@ -10,7 +10,7 @@ Created for use with some of our home automation HATs, DINPi allows plug and pla
     <img alt="DINPi Array on DIN Rail" src="/img/dinpi-3x-array.gif">
 </p>
 
-DINPi can be used in a number of ways depending on your requirements. The "ribbon cable" style board design allows DINPi boards to be used in reverse or upside down without issue. The mirrored pinout (see below) allows multiple boards to be connected in together using right-angle headers & sockets and can also be used to mount a Raspberry Pi upside-down and maintain correct GPIO pinout.
+DINPi can be used in a number of ways depending on your requirements. The "ribbon cable" style board design allows DINPi boards to be used in reverse or upside down without issue. The mirrored pinout (see below) allows multiple boards to be connected together using right-angle headers & sockets and can also be used to mount a Raspberry Pi upside-down while maintaining correct GPIO pinout.
 
 ## Build Your Own
 <p align="center">
@@ -19,9 +19,9 @@ DINPi can be used in a number of ways depending on your requirements. The "ribbo
     </a>
 </p>
 
-DINPi is open hardware, you can order the PCBs directly from our board manufacturer; PCBWay. We earn a small kickback if you sign-up to PCBWay and place an order using <a href="https://www.pcbway.com/setinvite.aspx?inviteid=19024" target="_blank" rel="nofollow">this link</a>.
+DINPi is open hardware, you can order the PCBs directly from our board manufacturer; PCBWay. We earn a small kickback if you sign-up to <a href="https://www.pcbway.com/setinvite.aspx?inviteid=19024" target="_blank" rel="nofollow">PCBWay</a> and place an order using <a href="https://www.pcbway.com/setinvite.aspx?inviteid=19024" target="_blank" rel="nofollow">this link</a>.
 
-Order your DINPi boards from PCBWay <a href="https://www.pcbway.com/project/shareproject/DINPi___DIN_Rail_Mount_for_Raspberry_Pi.html" target="_blank" rel="nofollow">here</a>.
+Order your DINPi boards <a href="https://www.pcbway.com/project/shareproject/DINPi___DIN_Rail_Mount_for_Raspberry_Pi.html" target="_blank" rel="nofollow">here</a>.
 
 ## Mechanical
 
