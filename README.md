@@ -5,7 +5,7 @@
 
 Created for use with some of our home automation HATs, DINPi allows plug and play connection for Raspberry Pi add-on boards in a DIN rail mountable package. Multiple boards can be daisy-chained to create an array of connected HATs or pHATs. Available as a kit, simply solder whichever headers / sockets you require for your project. Or buy an assembled unit with all the parts pre-installed <a href="https://plasmadan.com/dinpi" target="_blank">here</a>.
 
-**New:** DINPi now has a big brother! Check-out our [HAT RACK](https://github.com/plasmadancom/HAT-RACK) boards. They're backwards compatible!
+**New:** DINPi now has a big brother! Check-out our [HAT RACK](https://github.com/plasmadancom/HAT-RACK) board. It's backwards compatible!
 
 ## Multiple Uses
 <p align="center">
