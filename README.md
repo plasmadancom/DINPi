@@ -57,7 +57,9 @@ You can download the Gerber files for DINPi <a href="https://www.pcbway.com/proj
 ## Mechanical
 
 <p align="center">
-    <img alt="Mechanical Drawing" src="https://raw.githubusercontent.com/plasmadancom/DINPi/master/img/mechanical.giff" width="50%">
+    <a href="https://raw.githubusercontent.com/plasmadancom/DINPi/master/img/mechanical.gif" target="_blank">
+        <img alt="Mechanical Drawing" src="/img/mechanical.gif" width="50%">
+    </a>
 </p>
 
 #### License: [MIT](/LICENSE)
