@@ -1,9 +1,11 @@
-# DINPi
+## DINPi - DIN Rail Mount for Raspberry Pi
 <p align="center">
     <img alt="DINPi Animated" src="/img/dinpi-animated.gif">
 </p>
 
-Created for use with some of our home automation HATs, DINPi allows plug and play connection for Raspberry Pi add-on boards in a DIN rail mountable package. Multiple boards can be daisy-chained to create an array of connected HATs or pHATs. Simply solder whichever headers / sockets you require for your project.
+Created for use with some of our home automation HATs, DINPi allows plug and play connection for Raspberry Pi add-on boards in a DIN rail mountable package. Multiple boards can be daisy-chained to create an array of connected HATs or pHATs. Available as a kit, simply solder whichever headers / sockets you require for your project. Or buy an assembled unit with all the parts pre-installed <a href="https://plasmadan.com/dinpi" target="_blank">here</a>.
+
+**New:** DINPi now has a big brother! Check-out our [HAT RACK](https://github.com/plasmadancom/HAT-RACK) boards. They're backwards compatible!
 
 ## Multiple Uses
 <p align="center">
@@ -14,16 +16,14 @@ DINPi can be used in a number of ways depending on your requirements. The "ribbo
 
 ## Build Your Own
 <p align="center">
-    <a href="https://www.pcbway.com/project/shareproject/DINPi___DIN_Rail_Mount_for_Raspberry_Pi.html" target="_blank" rel="nofollow">
+    <a href="https://www.pcbway.com/project/shareproject/DINPi___DIN_Rail_Mount_for_Raspberry_Pi.html" target="_blank" rel="nofollow noopener noreferrer">
         <img alt="DINPi PCB" src="/img/dinpi-pcb.gif" width="50%">
     </a>
 </p>
 
-DINPi is open hardware, you can order the PCBs directly from our board manufacturer; PCBWay. We earn a small kickback if you sign-up using <a href="https://www.pcbway.com/setinvite.aspx?inviteid=19024" target="_blank" rel="nofollow">this link</a>.
+DINPi is open hardware, you can order the PCBs directly from our board manufacturer; <a href="https://www.pcbway.com/setinvite.aspx?inviteid=19024" target="_blank" rel="nofollow noopener noreferrer">PCBWay</a>. We earn a small kickback if you sign-up using <a href="https://www.pcbway.com/setinvite.aspx?inviteid=19024" target="_blank" rel="nofollow noopener noreferrer">this link</a>. You can customise the board colour, surface finish etc.
 
-Order your DINPi boards <a href="https://www.pcbway.com/project/shareproject/DINPi___DIN_Rail_Mount_for_Raspberry_Pi.html" target="_blank" rel="nofollow">here</a>.
-
-Alternatively you can buy a DINPi kit from us.
+Alternatively you can buy a DINPi kit from us <a href="https://plasmadan.com/dinpi" target="_blank" rel="nofollow">here</a>.
 
 ## Device Compatibility
 
@@ -37,7 +37,8 @@ DINPi is fully compatible with all **40-way** Raspberry Pi models and clones.
 | Raspberry Pi 1 Model B | &#x2714;&#xFE0F; |
 | Raspberry Pi 1 Model B+ | &#x2714;&#xFE0F; |
 | Raspberry Pi 2 Model B | &#x2714;&#xFE0F; |
-| Raspberry Pi 3 Model B &amp; 3+ | &#x2714;&#xFE0F; |
+| Raspberry Pi 3 Model B | &#x2714;&#xFE0F; |
+| Raspberry Pi 3 Model B+ | &#x2714;&#xFE0F; |
 | Raspberry Pi 4 | &#x2714;&#xFE0F; |
 | Raspberry Pi Zero | &#x2714;&#xFE0F; |
 | Asus Tinker Board | &#x2714;&#xFE0F; |
@@ -51,7 +52,7 @@ DINPi is fully compatible with all **40-way** Raspberry Pi models and clones.
 * DIN rail adaptor (Phoenix Contact 1201578 or generic) – x2
 
 ## Gerber Files
-You can download the Gerber files for DINPi <a href="https://www.pcbway.com/project/shareproject/DINPi___DIN_Rail_Mount_for_Raspberry_Pi.html" target="_blank" rel="nofollow">here</a>.
+You can download the Gerber files for DINPi <a href="https://www.pcbway.com/project/shareproject/DINPi___DIN_Rail_Mount_for_Raspberry_Pi.html" target="_blank" rel="nofollow noopener noreferrer">here</a>.
 
 ## Mechanical
 
