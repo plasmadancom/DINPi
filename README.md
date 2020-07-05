@@ -3,28 +3,29 @@
     <img alt="DINPi Animated" src="/img/dinpi-animated.gif">
 </p>
 
-Created for use with some of our home automation HATs, DINPi allows plug and play connection for Raspberry Pi add-on boards in a DIN rail mountable package. Multiple boards can be daisy-chained to create an array of connected HATs or pHATs. Available as a kit, simply solder whichever headers / sockets you require for your project. Or buy an assembled unit with all the parts pre-installed [here](https://plasmadan.com/dinpi).
+Created for use with some of our home automation HATs, DINPi allows plug & play connection for Raspberry Pi add-on boards in a DIN rail mountable package. Multiple boards can be daisy chained to create an array of connected HATs or pHATs. Available as a kit, simply solder whichever headers / sockets you require for your project. Or buy an assembled unit with all the parts pre-installed [here](https://plasmadan.com/dinpi).
 
 **New:** DINPi now has a big brother! Check-out our [HAT RACK](https://github.com/plasmadancom/HAT-RACK) board. It's backwards compatible!
 
-## Versitile
-<p align="center">
-    <img alt="DINPi Array on DIN Rail" src="/img/dinpi-3x-array.gif">
-</p>
+## Features
+* Plug & Play Raspberry Pi or Pi Zero
+* Daisy chain multiple boards
+* DIN rail mountable
 
-DINPi can be used in a number of ways depending on your requirements. The "ribbon cable" style board design allows DINPi boards to be used in reverse or upside down without issue. The mirrored pinout (see below) allows multiple boards to be connected together using right-angle headers & sockets and can also be used to mount a Raspberry Pi upside-down while maintaining correct GPIO pinout.
+## Versatile
+
+![DINPi Array on DIN Rail](/img/dinpi-3x-array.gif)
+
+The "ribbon cable" style board design allows DINPi boards to be used in a number of ways. The additional mirrored pinout allows multiple boards to be connected together using right-angle headers & sockets and can also be used to mount a Raspberry Pi upside-down while maintaining correct GPIO pinout.
 
 ## Build Your Own
 <p align="center">
     <a href="https://www.pcbway.com/project/shareproject/DINPi___DIN_Rail_Mount_for_Raspberry_Pi.html" target="_blank" rel="nofollow noopener noreferrer">
-        <img alt="DINPi PCB" src="/img/dinpi-pcb.gif" width="50%">
+        <img alt="DINPi PCB" src="/img/dinpi-pcb.gif" width="500px">
     </a>
 </p>
 
-DINPi is open hardware, you can order the PCBs directly from our board manufacturer; [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=19024). We earn a small kickback if you sign-up using [this link](https://www.pcbway.com/setinvite.aspx?inviteid=19024). You can customise the board colour, surface finish etc.
-
-Order your DINPi boards [here](https://www.pcbway.com/project/shareproject/DINPi___DIN_Rail_Mount_for_Raspberry_Pi.html).
-Alternatively you can buy a DINPi kit from us [here](https://plasmadan.com/dinpi).
+DINPi is open hardware! You can customise DINPi by ordering directly from our board manufacturer in China. We earn a small kickback if you sign-up using [this link](https://www.pcbway.com/setinvite.aspx?inviteid=19024). You can change the colour, surface finish, gold plating and more. Order [here](https://www.pcbway.com/project/shareproject/DINPi___DIN_Rail_Mount_for_Raspberry_Pi.html).
 
 ## Device Compatibility
 
@@ -55,12 +56,10 @@ DINPi is fully compatible with all **40-way** Raspberry Pi models and clones.
 ## Gerber Files
 You can download the Gerber files for DINPi [here](https://www.pcbway.com/project/shareproject/DINPi___DIN_Rail_Mount_for_Raspberry_Pi.html).
 
-## Mechanical
+## Dimensions
 
 <p align="center">
     <a href="https://raw.githubusercontent.com/plasmadancom/DINPi/master/img/mechanical.gif" target="_blank">
-        <img alt="Mechanical Drawing" src="/img/mechanical.gif" width="50%">
+        <img alt="Mechanical Drawing" src="/img/mechanical.gif" width="400px">
     </a>
 </p>
-
-#### License: [MIT](/LICENSE)
