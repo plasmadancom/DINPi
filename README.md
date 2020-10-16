@@ -33,19 +33,15 @@ DINPi is fully compatible with all **40-way** Raspberry Pi models and clones.
 
 | Device Model | Compatibility |
 | --- | :---: |
-| Raspberry Pi Model A | &#x274c; |
-| Raspberry Pi Model B | &#x274c; |
-| Raspberry Pi 1 Model A+ | &#x2714;&#xFE0F; |
-| Raspberry Pi 1 Model B | &#x2714;&#xFE0F; |
-| Raspberry Pi 1 Model B+ | &#x2714;&#xFE0F; |
+| Raspberry Pi 1 Model A+/B/B+ | &#x2714;&#xFE0F; |
 | Raspberry Pi 2 Model B | &#x2714;&#xFE0F; |
-| Raspberry Pi 3 Model B | &#x2714;&#xFE0F; |
-| Raspberry Pi 3 Model B+ | &#x2714;&#xFE0F; |
+| Raspberry Pi 3 Model B/B+ | &#x2714;&#xFE0F; |
 | Raspberry Pi 4 | &#x2714;&#xFE0F; |
 | Raspberry Pi Zero | &#x2714;&#xFE0F; |
 | Asus Tinker Board | &#x2714;&#xFE0F; |
 | Orange Pi | &#x2714;&#xFE0F; |
 | Odroid | &#x2714;&#xFE0F; |
+| ATMegaZero | &#x2714;&#xFE0F; |
 
 ## Parts List
 * 2×20 pin header (generic)
