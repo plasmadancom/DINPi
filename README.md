@@ -20,37 +20,12 @@ The "ribbon cable" style board design allows DINPi boards to be used in a number
 
 ## Build Your Own
 <p align="center">
-    <a href="https://www.pcbway.com/project/shareproject/DINPi___DIN_Rail_Mount_for_Raspberry_Pi.html" target="_blank" rel="nofollow noopener noreferrer">
+    <a href="https://plasmadan.shop/product/dinpi-gerber-file-download/" target="_blank">
         <img alt="DINPi PCB" src="/img/dinpi-pcb.gif" width="500px">
     </a>
 </p>
 
-DINPi is open hardware! You can customise DINPi by ordering directly from our board manufacturer in China. We earn a small kickback if you sign-up using [this link](https://www.pcbway.com/setinvite.aspx?inviteid=19024). You can change the colour, surface finish, gold plating and more. Order [here](https://www.pcbway.com/project/shareproject/DINPi___DIN_Rail_Mount_for_Raspberry_Pi.html).
-
-## Device Compatibility
-
-DINPi is fully compatible with all **40-way** Raspberry Pi models and clones.
-
-| Device Model | Compatibility |
-| --- | :---: |
-| Raspberry Pi 1 Model A+/B/B+ | &#x2714;&#xFE0F; |
-| Raspberry Pi 2 Model B | &#x2714;&#xFE0F; |
-| Raspberry Pi 3 Model B/B+ | &#x2714;&#xFE0F; |
-| Raspberry Pi 4 | &#x2714;&#xFE0F; |
-| Raspberry Pi Zero | &#x2714;&#xFE0F; |
-| Asus Tinker Board | &#x2714;&#xFE0F; |
-| Orange Pi | &#x2714;&#xFE0F; |
-| Odroid | &#x2714;&#xFE0F; |
-| ATMegaZero | &#x2714;&#xFE0F; |
-
-## Parts List
-* 2×20 pin header (generic)
-* 2×20 pin 90 degree header (generic)
-* 2×20 pin 90 degree socket (generic)
-* DIN rail adaptor (Phoenix Contact 1201578 or generic) – x2
-
-## Gerber Files
-You can download the Gerber files for DINPi [here](https://www.pcbway.com/project/shareproject/DINPi___DIN_Rail_Mount_for_Raspberry_Pi.html).
+You can build the DINPi yourself! Download the <a href="https://plasmadan.shop/product/dinpi-gerber-file-download/" target="_blank">Gerber files</a> from our website (you can name your own price). Once you have downloaded the Gerber pack, simply submit the pre-prepared zip file to your preferred PCB manufacturer, we highly recommend [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=19024). You can change the colour, surface finish, gold plating and more.
 
 ## Dimensions
 
